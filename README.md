@@ -1,0 +1,1 @@
+# cutechess_mac
